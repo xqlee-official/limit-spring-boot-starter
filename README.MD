@@ -1,4 +1,4 @@
-# spring boot Single project traffic limiting framework
+# Spring Boot Single Project Traffic Limiting Framework
 
 
 ## Usage
@@ -6,7 +6,7 @@
 maven pom deps
 ````xml
         <dependency>
-            <groupId>com.xqlee.boot.limiter</groupId>
+            <groupId>com.xqlee.boot</groupId>
             <artifactId>limiter-spring-boot-starter</artifactId>
             <version>latest</version>
         </dependency>
